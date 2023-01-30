@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/3-column-preview-hurfw2X5Vt)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/3-column-preview-hurfw2X5Vt)
 - Live Site URL: [Live Site](https://abdoomar01.github.io/3columnpreview/)
 
 ## My process
